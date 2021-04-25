@@ -1,5 +1,5 @@
-# Hello I'm Gints!
-<p><em>Software Engineer at <a href="https://www.codelex.io/uznemumiem">Codelex</a>
+# Hi, there!
+<p><em>I am software Engineer at <a href="https://www.codelex.io/uznemumiem">Codelex</a>
   
 [](https://visitor-badge.glitch.me/badge?page_id=goo-oog.goo-oog)
 
@@ -15,11 +15,13 @@
 
 ### My best projects so far
 
-[Stock trading simulator based on data from Finnhub](https://github.com/goo-oog/Finnhub)
+💹 [Stock trading simulator based on data from Finnhub](https://github.com/goo-oog/Finnhub)
 
-[Civil registry](https://github.com/goo-oog/codelex/tree/master/tasks/Civil-Registry)
+💘 [Dating web site](https://github.com/goo-oog/Dating)
 
-[Flower shop](https://github.com/goo-oog/codelex/tree/master/tasks/Flowers-web)
+📃 [Civil registry](https://github.com/goo-oog/codelex/tree/master/tasks/Civil-Registry)
+
+💐 [Flower shop](https://github.com/goo-oog/codelex/tree/master/tasks/Flowers-web)
 
 
 ### Contacts
