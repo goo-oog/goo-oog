@@ -21,7 +21,7 @@
 
 📃 [Civil registry](https://github.com/goo-oog/Civil-registry)
 
-💐 [Flower shop](https://github.com/goo-oog/codelex/tree/master/tasks/Flowers-web)
+💐 [Flower shop](https://github.com/goo-oog/Flower-shop)
 
 
 ### Contacts
