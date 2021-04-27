@@ -19,7 +19,7 @@
 
 💘 [Dating web site](https://github.com/goo-oog/Dating)
 
-📃 [Civil registry](https://github.com/goo-oog/codelex/tree/master/tasks/Civil-Registry)
+📃 [Civil registry](https://github.com/goo-oog/Civil-registry)
 
 💐 [Flower shop](https://github.com/goo-oog/codelex/tree/master/tasks/Flowers-web)
 
