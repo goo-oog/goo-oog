@@ -4,14 +4,6 @@
 [](https://visitor-badge.glitch.me/badge?page_id=goo-oog.goo-oog)
 
 
-### &#x1f4c8; My GitHub Stats
-
-###### <img src="https://github-readme-stats.vercel.app/api?username=goo-oog&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_title=true">
-
-###### <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goo-oog&hide=css,hack&card_width=445&layout=compact">
-
-###### <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@91736a14-ede8-4d78-803d-2e708eb20ba4">
-
 
 ### My best projects so far
 
@@ -22,6 +14,17 @@
 📃 [Civil registry](https://github.com/goo-oog/Civil-registry)
 
 💐 [Flower shop](https://github.com/goo-oog/Flower-shop)
+
+
+
+### &#x1f4c8; My GitHub Stats
+
+###### <img src="https://github-readme-stats.vercel.app/api?username=goo-oog&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_title=true">
+
+###### <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goo-oog&hide=css,hack&card_width=445&layout=compact">
+
+###### <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@91736a14-ede8-4d78-803d-2e708eb20ba4">
+
 
 
 ### Contacts
