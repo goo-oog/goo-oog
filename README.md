@@ -15,6 +15,8 @@
 
 💐 [Flower shop](https://github.com/goo-oog/Flower-shop)
 
+💶 [Currency calculator](https://github.com/goo-oog/Currency-calculator)
+
 
 
 ### &#x1f4c8; My GitHub Stats
