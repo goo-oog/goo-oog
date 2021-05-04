@@ -9,11 +9,11 @@
 
 💹 [Stock trading simulator based on data from Finnhub](https://github.com/goo-oog/Stock-trader)
 
+💰 [Virtual wallet](https://github.com/goo-oog/Virtual-wallet)
+
 💘 [Dating web site](https://github.com/goo-oog/Dating)
 
 📃 [Civil registry](https://github.com/goo-oog/Civil-registry)
-
-💐 [Flower shop](https://github.com/goo-oog/Flower-shop)
 
 💶 [Currency calculator](https://github.com/goo-oog/Currency-calculator)
 
