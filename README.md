@@ -6,6 +6,8 @@
 
 
 ### My best projects so far
+  
+🏦 [Bank](https://github.com/goo-oog/Bank)
 
 💹 [Stock trading simulator based on data from Finnhub](https://github.com/goo-oog/Stock-trader)
 
